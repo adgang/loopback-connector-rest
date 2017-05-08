@@ -1,7 +1,7 @@
 {
-  "name": "loopback-connector-rest",
-  "version": "3.0.0-alpha.1",
-  "description": "Loopback REST Connector",
+  "name": "@martjack/loopback-connector-rest",
+  "version": "0.1.0",
+  "description": "Loopback REST Connector customized for martjack",
   "engines": {
     "node": ">=4"
   },  
@@ -39,6 +39,9 @@
     "loopback-datasource-juggler": "^3.0.0",
     "mocha": "^2.1.0",
     "should": "^8.2.2"
+  },
+  "publishConfig": {
+    "registry": "http://52.163.119.36:4873/"
   },
   "repository": {
     "type": "git",
