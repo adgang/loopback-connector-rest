@@ -1,3 +1,8 @@
+2017-07-31, Version 1.2.0
+========================
+
+* Removed path variable addition to path(use path option instead)
+
 2016-10-14, Version 2.1.0
 =========================
 
